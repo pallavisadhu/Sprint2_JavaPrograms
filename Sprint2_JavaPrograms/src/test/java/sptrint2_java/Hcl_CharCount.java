@@ -7,7 +7,6 @@ public class Hcl_CharCount {
 
 	public String countingChars(String s) {
 		int count = 0;
-		int i = 0;
 		StringBuffer sb = new StringBuffer();
 		
 		if(s.length()==0) {
