@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="sptrint2_java.WellFargo_CommonPrefix">
+      <class name="sptrint2_java.RegistrationNumberTask">
         <methods>
           <include name="testCase1"/>
         </methods>
-      </class> <!-- sptrint2_java.WellFargo_CommonPrefix -->
+      </class> <!-- sptrint2_java.RegistrationNumberTask -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
