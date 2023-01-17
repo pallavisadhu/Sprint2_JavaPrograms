@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-01-09T19:56:52 CST" name="Default suite" finished-at="2023-01-09T19:56:52 CST" duration-ms="110">
+  <suite started-at="2023-01-16T12:54:12 CST" name="Default suite" finished-at="2023-01-16T12:54:39 CST" duration-ms="27034">
     <groups>
     </groups>
-    <test started-at="2023-01-09T19:56:52 CST" name="Default test" finished-at="2023-01-09T19:56:52 CST" duration-ms="110">
-      <class name="sptrint2_java.RegistrationNumberTask">
-        <test-method signature="extractRegistrationAndHallticketNumbers()[pri:0, instance:sptrint2_java.RegistrationNumberTask@20f5239f]" started-at="2023-01-09T19:56:52 CST" name="extractRegistrationAndHallticketNumbers" finished-at="2023-01-09T19:56:52 CST" duration-ms="24" status="PASS">
+    <test started-at="2023-01-16T12:54:12 CST" name="Default test" finished-at="2023-01-16T12:54:39 CST" duration-ms="27034">
+      <class name="OOPS.Main">
+        <test-method signature="method1()[pri:0, instance:OOPS.Main@2fd1433e]" started-at="2023-01-16T12:54:12 CST" name="method1" finished-at="2023-01-16T12:54:39 CST" duration-ms="26972" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- extractRegistrationAndHallticketNumbers -->
-      </class> <!-- sptrint2_java.RegistrationNumberTask -->
+        </test-method> <!-- method1 -->
+      </class> <!-- OOPS.Main -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
